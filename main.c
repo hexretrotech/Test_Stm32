@@ -11,10 +11,7 @@ int main()
 
     RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOC, ENABLE);   //Включение тактирования порта
  
-    GPIO_InitStructure.GPIO_Pin =  GPIO_Pin_13;             //Выбор пина для тактирования
-    GPIO_InitStructure.GPIO_Mode = GPIO_Mode_Out_PP;        //Пин работает как выход
-    GPIO_InitStructure.GPIO_Speed = GPIO_Speed_50MHz;       //Частота порта 50Гц
-    GPIO_Init(GPIOC, &GPIO_InitStructure);                  //Конфигурирование структурой
+    
  
     while(1)
     {
