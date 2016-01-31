@@ -22,6 +22,7 @@
         <ColumnWidth2>706</ColumnWidth2>
         <ColumnWidth3>50</ColumnWidth3>
       </Build>
+      <TerminalIO/>
     </Static>
     <Windows>
       <Wnd2>
@@ -70,9 +71,10 @@
           <Filename>$WS_DIR$\main.c</Filename>
           <XPos>0</XPos>
           <YPos>0</YPos>
-          <SelStart>54</SelStart>
-          <SelEnd>54</SelEnd>
+          <SelStart>1087</SelStart>
+          <SelEnd>1087</SelEnd>
         </Tab>
+        <ActiveTab>1</ActiveTab>
         <Tab>
           <Factory>TextEditor</Factory>
           <Filename>$WS_DIR$\STM32F10x_StdPeriph_Lib\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</Filename>
@@ -81,7 +83,6 @@
           <SelStart>903</SelStart>
           <SelEnd>903</SelEnd>
         </Tab>
-        <ActiveTab>2</ActiveTab>
       </Pane>
       <ActivePane>0</ActivePane>
       <Sizes>
@@ -101,6 +102,9 @@
             </Toolbar-027cc200>
           </Sizes>
         </Row0>
+        <Row1>
+          <Sizes/>
+        </Row1>
       </Top>
       <Left>
         <Row0>
