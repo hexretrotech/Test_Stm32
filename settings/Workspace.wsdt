@@ -64,25 +64,13 @@
       <Pane>
         <Tab>
           <Factory>TextEditor</Factory>
-          <Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\arm\doc\infocenter\index.ENU.html</Filename>
-        </Tab>
-        <Tab>
-          <Factory>TextEditor</Factory>
           <Filename>$WS_DIR$\main.c</Filename>
           <XPos>0</XPos>
           <YPos>0</YPos>
           <SelStart>1087</SelStart>
           <SelEnd>1087</SelEnd>
         </Tab>
-        <ActiveTab>1</ActiveTab>
-        <Tab>
-          <Factory>TextEditor</Factory>
-          <Filename>$WS_DIR$\STM32F10x_StdPeriph_Lib\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</Filename>
-          <XPos>0</XPos>
-          <YPos>0</YPos>
-          <SelStart>903</SelStart>
-          <SelEnd>903</SelEnd>
-        </Tab>
+        <ActiveTab>0</ActiveTab>
       </Pane>
       <ActivePane>0</ActivePane>
       <Sizes>
