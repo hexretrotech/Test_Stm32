@@ -2,53 +2,42 @@
 
 <Workspace>
   <ConfigDictionary>
-    <CurrentConfigs>
-      <Project>Test01/Debug</Project>
-    </CurrentConfigs>
-  </ConfigDictionary>
+    
+  <CurrentConfigs><Project>Test01/Debug</Project></CurrentConfigs></ConfigDictionary>
   <Desktop>
     <Static>
       <Workspace>
         <ColumnWidths>
-          <Column0>231</Column0>
-          <Column1>27</Column1>
-          <Column2>27</Column2>
-          <Column3>27</Column3>
-        </ColumnWidths>
+          
+          
+          
+          
+        <Column0>291</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
       </Workspace>
       <Build>
-        <ColumnWidth0>20</ColumnWidth0>
-        <ColumnWidth1>655</ColumnWidth1>
-        <ColumnWidth2>706</ColumnWidth2>
-        <ColumnWidth3>50</ColumnWidth3>
-      </Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>655</ColumnWidth1><ColumnWidth2>706</ColumnWidth2><ColumnWidth3>50</ColumnWidth3></Build>
       <TerminalIO/>
     </Static>
     <Windows>
-      <Wnd2>
+      
+      
+    <Wnd0>
         <Tabs>
           <Tab>
             <Identity>TabID-13411-11252</Identity>
             <TabName>Workspace</TabName>
             <Factory>Workspace</Factory>
             <Session>
-              <NodeDict>
-                <ExpandedNode>Test01</ExpandedNode>
-                <ExpandedNode>Test01/Libraries</ExpandedNode>
-                <ExpandedNode>Test01/Libraries/CMSIS</ExpandedNode>
-                <ExpandedNode>Test01/Libraries/CMSIS/c</ExpandedNode>
-                <ExpandedNode>Test01/Libraries/CMSIS/h</ExpandedNode>
-                <ExpandedNode>Test01/Libraries/StandartPeripheralLibrary</ExpandedNode>
-                <ExpandedNode>Test01/Libraries/StandartPeripheralLibrary/c</ExpandedNode>
-                <ExpandedNode>Test01/Libraries/StandartPeripheralLibrary/h</ExpandedNode>
-                <ExpandedNode>Test01/Sources</ExpandedNode>
-              </NodeDict>
-            </Session>
+              
+            <NodeDict><ExpandedNode>Test01</ExpandedNode><ExpandedNode>Test01/Libraries</ExpandedNode><ExpandedNode>Test01/Libraries/CMSIS</ExpandedNode><ExpandedNode>Test01/Libraries/CMSIS/c</ExpandedNode><ExpandedNode>Test01/Libraries/CMSIS/h</ExpandedNode><ExpandedNode>Test01/Libraries/StandartPeripheralLibrary</ExpandedNode><ExpandedNode>Test01/Libraries/StandartPeripheralLibrary/c</ExpandedNode><ExpandedNode>Test01/Libraries/StandartPeripheralLibrary/h</ExpandedNode><ExpandedNode>Test01/Sources</ExpandedNode></NodeDict></Session>
           </Tab>
         </Tabs>
-        <SelectedTab>0</SelectedTab>
-      </Wnd2>
-      <Wnd3>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
         <Tabs>
           <Tab>
             <Identity>TabID-1660-14952</Identity>
@@ -57,108 +46,21 @@
             <Session/>
           </Tab>
         </Tabs>
-        <SelectedTab>0</SelectedTab>
-      </Wnd3>
-    </Windows>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
     <Editor>
-      <Pane>
-        <Tab>
-          <Factory>TextEditor</Factory>
-          <Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\arm\doc\infocenter\index.ENU.html</Filename>
-        </Tab>
-        <Tab>
-          <Factory>TextEditor</Factory>
-          <Filename>$WS_DIR$\main.c</Filename>
-          <XPos>0</XPos>
-          <YPos>0</YPos>
-          <SelStart>1087</SelStart>
-          <SelEnd>1087</SelEnd>
-        </Tab>
-        <ActiveTab>1</ActiveTab>
-        <Tab>
-          <Factory>TextEditor</Factory>
-          <Filename>$WS_DIR$\STM32F10x_StdPeriph_Lib\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</Filename>
-          <XPos>0</XPos>
-          <YPos>0</YPos>
-          <SelStart>903</SelStart>
-          <SelEnd>903</SelEnd>
-        </Tab>
-      </Pane>
-      <ActivePane>0</ActivePane>
-      <Sizes>
-        <Pane>
-          <X>1000000</X>
-          <Y>1000000</Y>
-        </Pane>
-      </Sizes>
-      <SplitMode>1</SplitMode>
-    </Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>20</SelStart><SelEnd>20</SelEnd></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
     <Positions>
-      <Top>
-        <Row0>
-          <Sizes>
-            <Toolbar-027cc200>
-              <key>iaridepm.enu1</key>
-            </Toolbar-027cc200>
-          </Sizes>
-        </Row0>
-        <Row1>
-          <Sizes/>
-        </Row1>
-      </Top>
-      <Left>
-        <Row0>
-          <Sizes>
-            <Wnd2>
-              <Rect>
-                <Top>-2</Top>
-                <Left>-2</Left>
-                <Bottom>526</Bottom>
-                <Right>305</Right>
-                <x>-2</x>
-                <y>-2</y>
-                <xscreen>200</xscreen>
-                <yscreen>200</yscreen>
-                <sizeHorzCX>186741</sizeHorzCX>
-                <sizeHorzCY>260078</sizeHorzCY>
-                <sizeVertCX>286648</sizeVertCX>
-                <sizeVertCY>686606</sizeVertCY>
-              </Rect>
-            </Wnd2>
-          </Sizes>
-        </Row0>
-      </Left>
-      <Right>
-        <Row0>
-          <Sizes/>
-        </Row0>
-      </Right>
-      <Bottom>
-        <Row0>
-          <Sizes>
-            <Wnd3>
-              <Rect>
-                <Top>-2</Top>
-                <Left>-2</Left>
-                <Bottom>198</Bottom>
-                <Right>1073</Right>
-                <x>-2</x>
-                <y>-2</y>
-                <xscreen>1075</xscreen>
-                <yscreen>200</yscreen>
-                <sizeHorzCX>1003735</sizeHorzCX>
-                <sizeHorzCY>260078</sizeHorzCY>
-                <sizeVertCX>186741</sizeVertCX>
-                <sizeVertCY>260078</sizeVertCY>
-              </Rect>
-            </Wnd3>
-          </Sizes>
-        </Row0>
-      </Bottom>
-      <Float>
-        <Sizes/>
-      </Float>
-    </Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00cfb528><key>iaridepm.enu1</key></Toolbar-00cfb528></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>654</Bottom><Right>365</Right><x>-2</x><y>-2</y><xscreen>239</xscreen><yscreen>245</yscreen><sizeHorzCX>186719</sizeHorzCX><sizeHorzCY>260085</sizeHorzCY><sizeVertCX>286719</sizeVertCX><sizeVertCY>696391</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>243</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>245</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>260085</sizeHorzCY><sizeVertCX>186719</sizeVertCX><sizeVertCY>260085</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
   </Desktop>
 </Workspace>
 
