@@ -45,3 +45,7 @@
 #define RCC_BDCR *(unsigned long*)(0x40021020)
 #define RCC_CSR *(unsigned long*)(0x40021024)
 
+#define GPIOA_CRL *(unsigned long*)(0x40010800)
+
+#define SPI1_CR1 *(unsigned long*)(0x40013000)
+#define SPI1_DR *(unsigned long*)(0x4001300C)
