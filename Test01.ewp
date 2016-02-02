@@ -1861,6 +1861,9 @@
         </file>
       </group>
     </group>
+    <file>
+      <name>$PROJ_DIR$\stm32f103.h</name>
+    </file>
   </group>
   <group>
     <name>Sources</name>
