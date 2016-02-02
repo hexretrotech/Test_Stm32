@@ -5,6 +5,7 @@ int main()
     RCC_CR |= HSEON;  //Enable HSE clock
     while((RCC_CR && HSERDY) == 0); //Wait HSE sturtup
     
+    RCC_CFGR |= BIT_0;  //Set system clock from HSE
     
     RCC_APB2ENR |= 0x16;     //Clock port enable
     
