@@ -24,7 +24,7 @@ int main()
       for(long i=0; i<1000000; i++) { };
        
       *(unsigned long*)(0x4001100C) = 0x0000;
-      *(unsigned long*)(0x40013804) |= 'H';
+      *(unsigned long*)(0x40013804) |= 'H'; 
       for(long i=0; i<1000000; i++ ){ };
     }
 }
